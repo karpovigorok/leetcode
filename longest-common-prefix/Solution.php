@@ -1,4 +1,7 @@
 <?php
+
+namespace Leetcode\LongestCommonPrefix;
+
 /**
  * Project: leetcode
  * Problem URL: https://leetcode.com/problems/longest-common-prefix/
@@ -62,6 +65,6 @@ class Solution
         }
     }
 }
-$solution = new Solution();
-$words_array = ["ca", "a"];
-var_dump($solution->longestCommonPrefix($words_array));
+//$solution = new Solution();
+//$words_array = ["ca", "a"];
+//var_dump($solution->longestCommonPrefix($words_array));

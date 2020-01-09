@@ -1,5 +1,7 @@
 <?php
 
+namespace Leetcode\PalindromeLinkedList;
+
 /**
  * Project: leetcode
  * Problem URL: https://leetcode.com/problems/palindrome-linked-list/

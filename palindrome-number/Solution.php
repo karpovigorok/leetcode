@@ -1,4 +1,6 @@
 <?php
+namespace Leetcode\PalindromeNumber;
+
 /**
  * Project: leetcode
  * Problem URL: https://leetcode.com/problems/palindrome-number/

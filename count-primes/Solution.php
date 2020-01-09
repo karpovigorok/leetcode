@@ -1,5 +1,7 @@
 <?php
 
+namespace Leetcode\CountPrimes;
+
 /**
  * Project: leetcode
  * Problem URL: https://leetcode.com/problems/count-primes/
@@ -41,5 +43,5 @@ class Solution {
         }
     }
 }
-$solution = new Solution();
-print $solution->countPrimes(499979) . PHP_EOL;
+//$solution = new Solution();
+//print $solution->countPrimes(499979) . PHP_EOL;
