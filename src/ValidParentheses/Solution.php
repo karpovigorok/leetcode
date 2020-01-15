@@ -46,5 +46,3 @@ class Solution {
         }
     }
 }
-//$solution = new Solution();
-//var_dump($solution->isValid('[])'));
