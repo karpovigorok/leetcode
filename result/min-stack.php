@@ -1,4 +1,8 @@
 <?php
+/**
+ * Result URL: https://leetcode.com/submissions/detail/294759177/
+ */
+
 require "../vendor/autoload.php";
 
 use Leetcode\MinStack\Solution;

@@ -33,3 +33,4 @@
 15. [Implement strStr()](https://github.com/karpovigorok/leetcode/blob/master/src/ImplementStrstr/Solution.php)
 16. [Merge Sorted Array](https://github.com/karpovigorok/leetcode/blob/master/src/MergeSortedArray/Solution.php)
 17. [Remove Duplicates from Sorted Array](https://github.com/karpovigorok/leetcode/blob/master/src/RemoveDuplicatesFromSortedArray/Solution.php)
+18. [Min Stack](https://github.com/karpovigorok/leetcode/blob/master/result/min-stack.php)
