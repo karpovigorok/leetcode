@@ -1,4 +1,13 @@
 {
+  "name": "karpovigorok/leetcode",
+  "description": "Leetcode.com problem solve using php language",
+  "keywords": [
+    "leetcode", "study", "education", "php", "algorithms", "data structures", "array", "linked list", "interview"
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Leetcode\\":"src/"

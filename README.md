@@ -1,4 +1,4 @@
-# Leetcode.com problem solves using php language
+# Leetcode.com problem solve using php language
 
 1. [Two Sum](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSum/Solution.php)
 2. [Two Sum II - Input array is sorted](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSumIIInputArrayIsSorted/Solution.php)
