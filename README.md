@@ -1,23 +1,21 @@
 # Leetcode.com problem solve using php language
 
-##How To
+## How To
 
-###Get via composer
+### Get via composer
 `composer require karpovigorok/leetcode`
 
-###Structure
+### Structure
 `src` directory contain Solution classes<br />
 `result` directory contain examples of use 
 
-###Example
+### Example
 `<?php`<br />
 `use Leetcode\CountPrimes\Solution;`<br />
 `$solution = new Solution();`<br />
 `echo $solution->countPrimes(499979) . PHP_EOL;`<br />
 
-
-
-##Solved
+## Solved
 1. [Two Sum](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSum/Solution.php)
 2. [Two Sum II - Input array is sorted](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSumIIInputArrayIsSorted/Solution.php)
 3. [Reverse Integer](https://github.com/karpovigorok/leetcode/blob/master/src/ReverseInteger/Solution.php)
