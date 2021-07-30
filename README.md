@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/karpovigorok/leetcode/total.svg)]()
+
 # Leetcode.com problem solve using php language
 
 ## How To
@@ -37,3 +39,4 @@
 19. [Merge Two Sorted Lists](https://github.com/karpovigorok/leetcode/blob/master/src/MergeTwoSortedLists/Solution.php)
 20. [Search Insert Position](https://github.com/karpovigorok/leetcode/blob/master/src/SearchInsertPosition/Solution.php)
 21. [First Bad Version](https://github.com/karpovigorok/leetcode/blob/master/src/FirstBadVersion/Solution.php)
+22. [Guess Number Higher or Lower](https://github.com/karpovigorok/leetcode/blob/master/src/GuessNumberHigherOrLower/Solution.php)
