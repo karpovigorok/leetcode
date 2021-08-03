@@ -40,3 +40,4 @@
 20. [Search Insert Position](https://github.com/karpovigorok/leetcode/blob/master/src/SearchInsertPosition/Solution.php)
 21. [First Bad Version](https://github.com/karpovigorok/leetcode/blob/master/src/FirstBadVersion/Solution.php)
 22. [Guess Number Higher or Lower](https://github.com/karpovigorok/leetcode/blob/master/src/GuessNumberHigherOrLower/Solution.php)
+22. [Maximum Subarray](https://github.com/karpovigorok/leetcode/blob/master/src/MaximumSubarray/Solution.php)
