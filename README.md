@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/karpovigorok/leetcode/total.svg)]()
+**Clone is Free, press the Star also is free!**
 
 # Leetcode.com problem solve using php language
 
