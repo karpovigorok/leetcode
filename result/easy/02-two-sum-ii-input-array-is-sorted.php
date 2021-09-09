@@ -3,7 +3,7 @@
  * Result URL: https://leetcode.com/submissions/detail/290620893/
  */
 
-require "../vendor/autoload.php";
+require "../../vendor/autoload.php";
 
 use Leetcode\TwoSumIIInputArrayIsSorted\Solution;
 

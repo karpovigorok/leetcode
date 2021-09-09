@@ -18,6 +18,7 @@
 `echo $solution->countPrimes(499979) . PHP_EOL;`<br />
 
 ## Solved
+**Difficulty: Easy**
 1. [Two Sum](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSum/Solution.php)
 2. [Two Sum II - Input array is sorted](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSumIIInputArrayIsSorted/Solution.php)
 3. [Reverse Integer](https://github.com/karpovigorok/leetcode/blob/master/src/ReverseInteger/Solution.php)
@@ -28,16 +29,18 @@
 8. [Roman to Integer](https://github.com/karpovigorok/leetcode/blob/master/src/RomanToInteger/Solution.php)
 9. [Longest Common Prefix](https://github.com/karpovigorok/leetcode/blob/master/src/LongestCommonPrefix/Solution.php)
 10. [Count Primes](https://github.com/karpovigorok/leetcode/blob/master/src/CountPrimes/Solution.php)
-11. [Rotate Array](https://github.com/karpovigorok/leetcode/blob/master/src/RotateArray/Solution.php)
-12. [Sqrt(x)](https://github.com/karpovigorok/leetcode/blob/master/src/Sqrtx/Solution.php)
-13. [Sum of Two Integers](https://github.com/karpovigorok/leetcode/blob/master/src/SumOfTwoIntegers/Solution.php)
-14. [Valid Parentheses](https://github.com/karpovigorok/leetcode/blob/master/src/ValidParentheses/Solution.php)
-15. [Implement strStr()](https://github.com/karpovigorok/leetcode/blob/master/src/ImplementStrstr/Solution.php)
-16. [Merge Sorted Array](https://github.com/karpovigorok/leetcode/blob/master/src/MergeSortedArray/Solution.php)
-17. [Remove Duplicates from Sorted Array](https://github.com/karpovigorok/leetcode/blob/master/src/RemoveDuplicatesFromSortedArray/Solution.php)
-18. [Min Stack](https://github.com/karpovigorok/leetcode/blob/master/result/min-stack.php)
-19. [Merge Two Sorted Lists](https://github.com/karpovigorok/leetcode/blob/master/src/MergeTwoSortedLists/Solution.php)
-20. [Search Insert Position](https://github.com/karpovigorok/leetcode/blob/master/src/SearchInsertPosition/Solution.php)
-21. [First Bad Version](https://github.com/karpovigorok/leetcode/blob/master/src/FirstBadVersion/Solution.php)
-22. [Guess Number Higher or Lower](https://github.com/karpovigorok/leetcode/blob/master/src/GuessNumberHigherOrLower/Solution.php)
-22. [Maximum Subarray](https://github.com/karpovigorok/leetcode/blob/master/src/MaximumSubarray/Solution.php)
+11. [Sqrt(x)](https://github.com/karpovigorok/leetcode/blob/master/src/Sqrtx/Solution.php)
+12. [Valid Parentheses](https://github.com/karpovigorok/leetcode/blob/master/src/ValidParentheses/Solution.php)
+13. [Implement strStr()](https://github.com/karpovigorok/leetcode/blob/master/src/ImplementStrstr/Solution.php)
+14. [Merge Sorted Array](https://github.com/karpovigorok/leetcode/blob/master/src/MergeSortedArray/Solution.php)
+15. [Remove Duplicates from Sorted Array](https://github.com/karpovigorok/leetcode/blob/master/src/RemoveDuplicatesFromSortedArray/Solution.php)
+16. [Min Stack](https://github.com/karpovigorok/leetcode/blob/master/result/min-stack.php)
+17. [Merge Two Sorted Lists](https://github.com/karpovigorok/leetcode/blob/master/src/MergeTwoSortedLists/Solution.php)
+18. [Search Insert Position](https://github.com/karpovigorok/leetcode/blob/master/src/SearchInsertPosition/Solution.php)
+19. [First Bad Version](https://github.com/karpovigorok/leetcode/blob/master/src/FirstBadVersion/Solution.php)
+20. [Guess Number Higher or Lower](https://github.com/karpovigorok/leetcode/blob/master/src/GuessNumberHigherOrLower/Solution.php)
+21. [Maximum Subarray](https://github.com/karpovigorok/leetcode/blob/master/src/MaximumSubarray/Solution.php)
+    
+**Difficulty: Medium**
+1. [Sum of Two Integers](https://github.com/karpovigorok/leetcode/blob/master/src/SumOfTwoIntegers/Solution.php)
+2. [Rotate Array](https://github.com/karpovigorok/leetcode/blob/master/src/RotateArray/Solution.php)

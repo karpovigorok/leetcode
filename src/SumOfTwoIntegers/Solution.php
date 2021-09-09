@@ -3,7 +3,7 @@ namespace Leetcode\SumOfTwoIntegers;
 /**
  * Project: leetcode
  * Problem URL: https://leetcode.com/problems/sum-of-two-integers/
- * Difficulty: Easy
+ * Difficulty: Medium
  * Description: Calculate the sum of two integers a and b, but you are not allowed to use the operator + and -.
  * Author: Igor Karpov <igorok.karpov@gmail.com>
  * Date: 1/9/2020

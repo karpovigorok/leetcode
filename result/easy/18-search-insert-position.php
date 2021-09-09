@@ -1,5 +1,10 @@
 <?php
-require "../vendor/autoload.php";
+
+/**
+ * Result: https://leetcode.com/problems/search-insert-position/submissions/
+ */
+
+require "../../vendor/autoload.php";
 
 use Leetcode\SearchInsertPosition\Solution;
 

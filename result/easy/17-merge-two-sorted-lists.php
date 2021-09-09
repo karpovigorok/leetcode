@@ -4,7 +4,7 @@
  * Result: https://leetcode.com/submissions/detail/530298508/
  */
 
-require "../vendor/autoload.php";
+require "../../vendor/autoload.php";
 
 use Leetcode\MergeTwoSortedLists\Solution;
 use Leetcode\MergeTwoSortedLists\ListNode;

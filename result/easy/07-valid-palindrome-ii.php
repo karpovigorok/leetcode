@@ -2,7 +2,7 @@
 /**
  * Result URL: https://leetcode.com/submissions/detail/291515575/
  */
-require "../vendor/autoload.php";
+require "../../vendor/autoload.php";
 
 use Leetcode\ValidPalindromeII\Solution;
 

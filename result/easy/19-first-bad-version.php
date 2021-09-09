@@ -1,6 +1,10 @@
 <?php
 
-require "../vendor/autoload.php";
+/**
+ * Result: https://leetcode.com/submissions/detail/530649358/
+ */
+
+require "../../vendor/autoload.php";
 
 use Leetcode\FirstBadVersion\Solution;
 

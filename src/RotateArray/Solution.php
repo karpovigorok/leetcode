@@ -4,7 +4,7 @@ namespace Leetcode\RotateArray;
 /**
  * Project: leetcode
  * Problem URL: https://leetcode.com/problems/rotate-array/
- * Difficulty: Easy
+ * Difficulty: Medium
  * Description: Given an array, rotate the array to the right by k steps, where k is non-negative.
  * Author: Igor Karpov <igorok.karpov@gmail.com>
  * Date: 1/9/2020

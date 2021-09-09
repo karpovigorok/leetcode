@@ -4,7 +4,7 @@
  * Result URL: https://leetcode.com/submissions/detail/291485249/
  */
 
-require "../vendor/autoload.php";
+require "../../vendor/autoload.php";
 
 use Leetcode\ValidPalindrome\Solution;
 

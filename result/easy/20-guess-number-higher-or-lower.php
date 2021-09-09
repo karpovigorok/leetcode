@@ -4,7 +4,7 @@
  * Result URL: https://leetcode.com/submissions/detail/530778359/
  */
 
-require "../vendor/autoload.php";
+require "../../vendor/autoload.php";
 
 use Leetcode\GuessNumberHigherOrLower\Solution;
 
