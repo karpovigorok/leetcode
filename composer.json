@@ -5,7 +5,7 @@
     "leetcode", "study", "education", "php", "algorithms", "data structures", "array", "linked list", "interview"
   ],
   "require": {
-    "php": "^7.0"
+    "php": "^8.0"
   },
   "license": "MIT",
   "autoload": {

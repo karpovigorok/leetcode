@@ -19,7 +19,7 @@
 
 ## Solved
 **Difficulty: Easy**
-1. [Two Sum](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSum/Solution.php)
+1. [Two Sum](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSum/)
 2. [Two Sum II - Input array is sorted](https://github.com/karpovigorok/leetcode/blob/master/src/TwoSumIIInputArrayIsSorted/Solution.php)
 3. [Reverse Integer](https://github.com/karpovigorok/leetcode/blob/master/src/ReverseInteger/Solution.php)
 4. [Palindrome Number](https://github.com/karpovigorok/leetcode/blob/master/src/PalindromeNumber/Solution.php)
